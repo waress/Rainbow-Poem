@@ -4,5 +4,6 @@ Purple
 Pink
 Ornage
 Blue
+Green
 Red
 These are the colors of the rainbow.
